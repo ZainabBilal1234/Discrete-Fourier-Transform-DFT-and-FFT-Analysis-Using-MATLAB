@@ -12,5 +12,5 @@ Discrete Fourier Transform (DFT),
 Fast Fourier Transform (FFT),
 Matrix-Based Computation,
 Signal Processing Techniques,
-Hamming Windowing,and
+Hamming Windowing and
 Frequency Spectrum Analysis
