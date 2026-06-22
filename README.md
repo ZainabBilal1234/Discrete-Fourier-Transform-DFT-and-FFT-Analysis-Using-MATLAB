@@ -8,9 +8,9 @@ The simulation generates multiple plots to compare FFT and manual DFT results, v
 
 Technologies Used
 MATLAB
-Discrete Fourier Transform (DFT)
-Fast Fourier Transform (FFT)
-Matrix-Based Computation
-Signal Processing Techniques
-Hamming Windowing
+Discrete Fourier Transform (DFT),
+Fast Fourier Transform (FFT),
+Matrix-Based Computation,
+Signal Processing Techniques,
+Hamming Windowing,and
 Frequency Spectrum Analysis
